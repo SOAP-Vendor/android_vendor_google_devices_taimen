@@ -1,3 +1,1 @@
-# android_vendor_google_taimen
-# android_vendor_google_devices_taimen
 # android_vendor_google_devices_taimen
