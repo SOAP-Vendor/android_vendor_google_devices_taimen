@@ -1,0 +1,6 @@
+require board=taimen
+
+require version-bootloader=TMZ12b
+
+
+require version-baseband=g8998-00164-1710262031
